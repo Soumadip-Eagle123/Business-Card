@@ -2,7 +2,7 @@ export default function Header() {
   return (
     <header className="header">
       <img
-        src="../me.jpg"
+        src="/me.jpg"
         alt="Profile"
         className="profile-img"
       />
