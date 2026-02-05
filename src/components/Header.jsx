@@ -14,7 +14,9 @@ export default function Header() {
       </a>
 
       <div className="buttons">
-        <a href="mailto:soumadipsen1@gmail.com" target="_blank"><button className="email-btn">✉ Email</button></a>
+        <a href="https://mail.google.com/mail/?view=cm&fs=1&to=soumadipsen1@gmail.com"
+  target="_blank"
+  rel="noopener noreferrer"><button className="email-btn">✉ Email</button></a>
         <a href="https://www.linkedin.com/in/soumadip-sen-b44a46300/" target="_blank">
   <button className="linkedin-btn">in LinkedIn</button>
 </a>
